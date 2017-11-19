@@ -32,7 +32,6 @@ public class DynamicArray {
 			int x = in.nextInt();
 			int y = in.nextInt();
 			if (query == 1) {
-
 				da.executeFirstQuery(x, y);
 			}
 			else {
